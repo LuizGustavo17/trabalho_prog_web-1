@@ -4,4 +4,4 @@ Este projeto contém links para os repositórios dos grupos de trabalhos da disc
 
 ## Integrantes do grupo / Link do projeto
 
-* 
+* Luiz Gustavo da Silva Oliveira / Luiz Eduardo dos Santos Cunha / https://github.com/LuizGustavo17/Trabalho_Prog_Web
